@@ -186,4 +186,4 @@
 	url = https://github.com/DerekStride/tree-sitter-sql.git
 [submodule "tree-sitter-luau"]
 	path = tree-sitter-luau
-	url = https://github.com/polychromatist/tree-sitter-luau
+	url = https://github.com/tree-sitter-grammars/tree-sitter-luau.git
